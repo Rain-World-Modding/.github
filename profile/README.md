@@ -6,6 +6,6 @@ Welcome to the Rain World Modding GitHub org page for collaborating on Rain Worl
 - [RainDB](https://www.raindb.net/), RW mod database
 
 #### Modding resources
-- [Rain World modding wiki](https://rain-world-modding.github.io/)
+- [Rain World modding wiki](https://rainworldmodding.miraheze.org/)
 - [BepInEx docs](https://docs.bepinex.dev/)
 - [MonoMod docs](https://monomod.dev/)
